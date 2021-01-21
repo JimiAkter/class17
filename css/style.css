@@ -1,0 +1,15 @@
+.alert-custom{
+    color: #101010;
+    background-color: #d06670;
+    border: #0e0e0e;
+}
+img.card-img-top {
+    height: 231px;
+}
+a.nav-link.active {
+    background: #22dd8f;
+    color: white;
+}
+ul.nav {
+    margin-top: 26px;
+}
